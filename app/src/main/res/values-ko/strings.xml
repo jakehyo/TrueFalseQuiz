@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TrueFalseQuiz</string>
+    <string name="question_1">소녀는 빵을 먹는다.</string>
+    <string name="question_2">소년과 소녀가 메뉴를 읽었습니다.</string>
+    <string name="question_3">라이언이 내 사탕을 가져 갔어.</string>
+    <string name="question_4">저는 Jax 전문가입니다.</string>
+    <string name="text_false">틀렸습니다</string>
+    <string name="text_true">맞아요</string>
+    <string name="text_finish">다 끝났어!</string>
+    <string name="text_start">퀴즈를 시작하려면 다음 버튼을 누르세요!</string>
+    <string name="text_congrat">정답</string>
+    <string name="text_fail">오답</string>
+</resources>

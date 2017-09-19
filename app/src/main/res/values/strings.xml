@@ -5,4 +5,9 @@
     <string name="question_1">The girl eats bread.</string>
     <string name="question_2">The boy and the girl read the menu.</string>
     <string name="question_3">Ryan took my candy.</string>
+    <string name="question_4">I am a Jax One Trick.</string>
+    <string name="text_finish">You finished!</string>
+    <string name="text_start">Press the next button to start the quiz!</string>
+    <string name="text_congrat">Good Job</string>
+    <string name="text_fail"><![CDATA[>:(]]></string>
 </resources>
